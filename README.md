@@ -14,7 +14,7 @@ I'm currently looking for new full-time employment and thought that putting more
 
 ![](images/HowSoftwareIsMade.jpg)
 
-**Strongest Languages**: C++, Python  
+**Strongest languages**: C++, Python  
 **Also experienced in** (less recently or less experience): Javascript (Node.js, Typescript), Lua, Java, Actionscript, C, PHP, Perl, HTML  
 **General skills**: game development, game AI, UI, simulation, networked systems, multi-threaded applications, databases, spreadsheet generation, writing (both documentation and writing in general), financial data analysis, machine learning basics  
 **Other specialties**: Qt, SQL, Node.js, REST, Git, Mercurial (Hg), SVN, Jira, JSON  
@@ -32,6 +32,10 @@ I don't necessarily have experience with the buzziest new tools, platforms, and 
 * An implementation of a [linked list](https://github.com/LongReach/linked-list) class, with a robust testing framework
 * A dynamic programming solution to a [scheduling problem](https://github.com/LongReach/meeting-problem)
 * Two solutions to a [word ladder](https://github.com/LongReach/word-ladder) problem, both involving a connected graph
+
+**C++**
+* A C++ solution to a [classic riddle](https://github.com/LongReach/einstein-puzzle)
+* In-progress: a project demonstrating Python-C++ integration
 
 
 
