@@ -8,7 +8,14 @@ I'm a software developer living in the Boston area. I have a computer engineerin
 
 Most of my background is in development of games and military simulations (which aren't too far from games), but I've also done some web development work. More recently, I've written software for stock and options trading, as well as for analyzing trade opportunities or collecting metrics on past trades.
 
-I'm currently looking for new full-time employment and thought that putting more on my GitHub page might be valuable. Somewhat unusually for a software engineer, I enjoy writing and documentation -- see my repos for examples of that.
+Over my career, I've worked on:
+* Video and computer games
+* Military simulations
+* Robotics
+* Software for stock trading and analysis of buying/selling opportunities, including helping launch a hedge fund
+* Web development
+
+I'm not looking for employment right now, but this profile served me well last time I was, at the end of 2020.
 
 ## Specialties
 
@@ -21,9 +28,18 @@ I'm currently looking for new full-time employment and thought that putting more
 
 I don't necessarily have experience with the buzziest new tools, platforms, and frameworks that everyone's hiring for at any given moment, but I can always pick those up quickly. Just about anything is more user friendly than a macro and template filled multi-hundred-thousand line, computation-intensive C++ codebase, and I've worked in those.
 
+## Non-SW Dev Interests
+
+Ones of Note:
+* Very experienced writer
+* Drones, both military and recreational
+* Video editing
+* Cooking!
+
 ## Public Repositories Here
 
 ![](images/a7v.jpg)  
+_This is an early tank, used in World War I. Like most of the other tanks from that conflict, it has an interesting steampunky design (IMO) that was discarded in the next world war. I've always been interested in military history, particularly in various kinds of machines. In this case, I just liked the job the artist did with the model._
 
 **JavaScript(/TypeScript)**
 * A [small game](https://github.com/LongReach/programming-challenge) I wrote
