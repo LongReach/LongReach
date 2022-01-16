@@ -47,6 +47,7 @@ Ones of Note:
 * An implementation of a [linked list](https://github.com/LongReach/linked-list) class, with a robust testing framework
 * A dynamic programming solution to a [scheduling problem](https://github.com/LongReach/meeting-problem)
 * Two solutions to a [word ladder](https://github.com/LongReach/word-ladder) problem, both involving a connected graph
+* Some fun with [Wordle](https://github.com/LongReach/wordle), a popular game from January, 2022
 
 **C++**
 * A C++ solution to [Einstein's Puzzle](https://github.com/LongReach/einstein-puzzle). I also added a feature to generate new puzzles automatically, which uses a gradient-descent process.
