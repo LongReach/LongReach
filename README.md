@@ -38,8 +38,7 @@ Ones of Note:
 
 ## Public Repositories Here
 
-![](images/a7v.jpg)  
-_This is an early tank, used in World War I. Like most of the other tanks from that conflict, it has an interesting steampunky design (IMO) that was discarded in the next world war. I've always been interested in military history, particularly in various kinds of machines. In this case, I just liked the job the artist did with the model._
+[![](images/a7v.jpg)](./tank_aside/README.md)  
 
 **JavaScript(/TypeScript)**
 * A [small game](https://github.com/LongReach/programming-challenge) I wrote
