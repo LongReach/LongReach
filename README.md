@@ -6,8 +6,6 @@
 
 I'm a software developer living in the Boston area. I have a computer engineering degree and over twenty years of professional software development experience, but have been programming since I was in elementary school, starting with BASIC and moving on to 8-bit/16-bit assembly language.
 
-Most of my background is in development of games and military simulations (which aren't too far from games), but I've also done some web development work. More recently, I've written software for stock and options trading, as well as for analyzing trade opportunities or collecting metrics on past trades.
-
 Over my career, I've worked on:
 * Video and computer games
 * Military simulations
