@@ -49,6 +49,7 @@ Ones of Note:
 
 **C++**
 * A C++ solution to [Einstein's Puzzle](https://github.com/LongReach/einstein-puzzle). I also added a feature to generate new puzzles automatically, which uses a gradient-descent process.
+* A solution to a [rideshare routing problem](https://github.com/LongReach/rideshare-problem). Some prototyping with Python.
 * In-progress: a project demonstrating Python-C++ integration
 
 
