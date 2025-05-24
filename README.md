@@ -67,9 +67,11 @@ Pre-2025
 
 ## Public Repositories Here
 
-![](images/a7v.jpg)  
+[![](images/a7v.jpg)](./tank_aside/README.md)  
 
 **JavaScript(/TypeScript)**
+
+2017
 * A [small game](https://github.com/LongReach/programming-challenge) I wrote
 
 **Python**
@@ -78,11 +80,13 @@ Pre-2025
 * An implementation of a [linked list](https://github.com/LongReach/linked-list) class, with a robust testing framework
 * A dynamic programming solution to a [scheduling problem](https://github.com/LongReach/meeting-problem)
 * Two solutions to a [word ladder](https://github.com/LongReach/word-ladder) problem, both involving a connected graph
+* Some fun with [Wordle](https://github.com/LongReach/wordle), a popular game from January, 2022
 
 **C++**
 
 2020
 * A C++ solution to [Einstein's Puzzle](https://github.com/LongReach/einstein-puzzle). I also added a feature to generate new puzzles automatically, which uses a gradient-descent process.
+* A solution to a [rideshare routing problem](https://github.com/LongReach/rideshare-problem). Some prototyping with Python.
 * In-progress: a project demonstrating Python-C++ integration
 
 
