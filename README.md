@@ -84,6 +84,7 @@ Pre-2025
 
 2025
 * A program for generating and solving [Sudoku puzzles](https://github.com/LongReach/sudoku)
+* [API for pulling stock/ETF/options time-series data from Interactive Brokers](https://github.com/LongReach/stock-and-options-analyzer), for analysis by automated trading strategy systems.
 
 **C++**
 
