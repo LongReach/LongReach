@@ -49,7 +49,7 @@ Pre-2025
 
 ### Technologies
 
-**Most recent**: Kubernetes, MongoDB, Kakfka, ChatGPT, Elastic/Kibana, k9s, GRPC, TCP/IP, REST, YAML, JSON, PyTorch, Git, Jira, Machine Learning Basics, Excel (including generation of), PyTest, pandas, Zoom, Slack
+**Most recent**: Kubernetes, MongoDB, Kakfka, ChatGPT, Elastic/Kibana, k9s, GRPC, TCP/IP, REST, YAML, JSON, PyTorch, Git, Jira, Machine Learning Basics, Excel (including generation of), PyTest, pandas, Zoom, Slack   
 **Less recent**: Qt, SQL, Node.js, Mercurial (Hg), SVN
 
 ### General Skills
