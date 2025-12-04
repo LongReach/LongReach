@@ -82,6 +82,9 @@ Pre-2025
 * Two solutions to a [word ladder](https://github.com/LongReach/word-ladder) problem, both involving a connected graph
 * Some fun with [Wordle](https://github.com/LongReach/wordle), a popular game from January, 2022
 
+2025
+* A program for generating and solving [Sudoku puzzles](https://github.com/LongReach/sudoku)
+
 **C++**
 
 2020
